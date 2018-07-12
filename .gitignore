@@ -1,0 +1,6 @@
+.idea
+/vendor/
+/coverage/
+/tests/mock/out.txt
+/tests/mock/390*.txt
+/tests/mock/test_new.txt
